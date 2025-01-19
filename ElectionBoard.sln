@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1DA55C22-521B-475D-B164-4CF2A853B56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectionBoard", "src\ElectionBoard\ElectionBoard.csproj", "{AC98364B-ED56-418A-9A0F-C0EF32A73C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC98364B-ED56-418A-9A0F-C0EF32A73C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC98364B-ED56-418A-9A0F-C0EF32A73C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC98364B-ED56-418A-9A0F-C0EF32A73C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC98364B-ED56-418A-9A0F-C0EF32A73C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC98364B-ED56-418A-9A0F-C0EF32A73C80} = {1DA55C22-521B-475D-B164-4CF2A853B56D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9C0588-DF4E-4A63-8B39-CE7D3A955163}
+	EndGlobalSection
+EndGlobal
